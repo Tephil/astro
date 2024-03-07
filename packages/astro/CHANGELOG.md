@@ -1,5 +1,11 @@
 # astro
 
+## 4.4.14
+
+### Patch Changes
+
+- [#10343](https://github.com/withastro/astro/pull/10343) [`f973aa9110592fa9017bbe84387f22c24a6d7159`](https://github.com/withastro/astro/commit/f973aa9110592fa9017bbe84387f22c24a6d7159) Thanks [@ematipico](https://github.com/ematipico)! - Fixes some false positive in the dev toolbar a11y audits, by adding the `a` element to the list of interactive elements.
+
 ## 4.4.13
 
 ### Patch Changes
